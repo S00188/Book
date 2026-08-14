@@ -1,0 +1,73 @@
+# render.yaml — KinoBot uchun Render Blueprint
+#
+# Bu fayl loyiha kodini HECH QANDAY o'zgartirmaydi — faqat Render'ga qanday
+# ishga tushirishni aytadi. server.js allaqachon frontend/ papkasini o'zi
+# xizmat qilgani uchun ("Static file serving" bo'limi, server.js) bitta
+# web-xizmat orqali ham API, ham WebApp bir xil manzilda ishlaydi.
+#
+# Ishlatish: Render dashboard -> New -> Blueprint -> shu repo'ni tanlang.
+# Render bu faylni avtomatik topib, quyidagi 2 ta xizmatni yaratadi.
+
+services:
+  # 1) REST API + frontend (WebApp) — bitta web-xizmat, bitta URL
+  - type: web
+    name: kinobot-api
+    env: node
+    plan: starter              # Disk (persistent storage) uchun Free emas, Starter+ kerak
+    region: frankfurt          # kerak bo'lsa o'zingizga yaqin regionga almashtiring
+    rootDir: backend
+    buildCommand: npm install  # tashqi kutubxona yo'q, tez tugaydi — kodni o'zgartirmaydi
+    startCommand: node server.js
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    disk:
+      name: kinobot-data
+      # backend/data papkasining o'ziga ulanadi — db.json, posters/, banner/
+      # va (agar R2 ishlatilmasa) videos/ ham shu doimiy diskda saqlanadi.
+      mountPath: /opt/render/project/src/backend/data
+      sizeGB: 5
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: ADMIN_KEY
+        sync: false
+      - key: WEBAPP_URL
+        sync: false             # kinobot-api xizmatining o'z Render URL'i (masalan https://kinobot-api.onrender.com)
+      - key: ALLOWED_ORIGINS
+        sync: false             # frontend shu bilan bir origin bo'lgani uchun odatda bo'sh qoldirsa ham bo'ladi
+      - key: LOCAL_VIDEOS_DIR
+        value: /opt/render/project/src/backend/data/videos   # R2 ishlatilmasa, video shu doimiy diskka yoziladi
+      - key: CLOUDFLARE_ACCOUNT_ID
+        sync: false
+      - key: R2_ACCESS_KEY_ID
+        sync: false
+      - key: R2_SECRET_ACCESS_KEY
+        sync: false
+      - key: R2_BUCKET_NAME
+        sync: false
+      - key: CHANNEL_ID
+        sync: false
+
+  # 2) Telegram bot — long polling, alohida background worker
+  - type: worker
+    name: kinobot-bot
+    env: node
+    plan: starter
+    region: frankfurt
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node bot.js
+    autoDeployTrigger: commit
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: WEBAPP_URL
+        sync: false            # kinobot-api xizmatining Render URL'i bilan bir xil qiymat
+      - key: CHANNEL_ID
+        sync: false

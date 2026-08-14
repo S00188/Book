@@ -1,0 +1,497 @@
+{
+  "movies": [
+    {
+      "id": "dune2",
+      "title": "Dune: Part Two",
+      "originalTitle": "Dune: Part Two",
+      "year": 2024,
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "rating": 8.9,
+      "duration": "2h 46m",
+      "poster": "g0",
+      "description": "Pol Atreydis Xarkonnenlarga qarshi qasos olish uchun Fremenlar bilan birlashadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_5MB.mp4"
+      },
+      "createdAt": "2024-03-01T00:00:00.000Z",
+      "updatedAt": "2024-03-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "oppenheimer",
+      "title": "Oppenheimer",
+      "originalTitle": "Oppenheimer",
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": 8.6,
+      "duration": "3h 00m",
+      "poster": "g4",
+      "description": "Atom bombasini yaratgan fizik J. Robert Openxaymerning hayoti haqida.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4"
+      },
+      "createdAt": "2023-07-01T00:00:00.000Z",
+      "updatedAt": "2023-07-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "batman",
+      "title": "The Batman",
+      "originalTitle": "The Batman",
+      "year": 2022,
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "rating": 7.9,
+      "duration": "2h 56m",
+      "poster": "g6",
+      "description": "Yosh Betmen Gotham shahridagi korrupsiya va jinoyatchilikka qarshi kurashadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4"
+      },
+      "createdAt": "2022-03-01T00:00:00.000Z",
+      "updatedAt": "2022-03-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "interstellar",
+      "title": "Interstellar",
+      "originalTitle": "Interstellar",
+      "year": 2014,
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "duration": "2h 49m",
+      "poster": "g2",
+      "description": "Insoniyat yangi uy topish uchun koinotni kezayotgan astronavtlar haqida.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4"
+      },
+      "createdAt": "2014-11-01T00:00:00.000Z",
+      "updatedAt": "2014-11-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "darkknight",
+      "title": "The Dark Knight",
+      "originalTitle": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 9,
+      "duration": "2h 32m",
+      "poster": "g1",
+      "description": "Betmen, Jim Gordon va Xarvi Dent Gotham shahrini jinoyatchilardan himoya qiladi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://media.w3.org/2010/05/video/movie_300.mp4"
+      },
+      "createdAt": "2008-07-01T00:00:00.000Z",
+      "updatedAt": "2008-07-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "johnwick4",
+      "title": "John Wick 4",
+      "originalTitle": "John Wick: Chapter 4",
+      "year": 2023,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "duration": "2h 49m",
+      "poster": "g5",
+      "description": "Jon Vik dunyoning eng qudratli tashkilotiga qarshi chiqadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_5MB.mp4"
+      },
+      "createdAt": "2023-03-01T00:00:00.000Z",
+      "updatedAt": "2023-03-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "avatar",
+      "title": "Avatar: The Way of Water",
+      "originalTitle": "Avatar: The Way of Water",
+      "year": 2022,
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 7.6,
+      "duration": "3h 12m",
+      "poster": "g3",
+      "description": "Jeyk Sulli va oilasi Pandoraning suv osti dunyosida kurashadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+      },
+      "createdAt": "2022-12-01T00:00:00.000Z",
+      "updatedAt": "2022-12-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "spiderman",
+      "title": "Spider-Man: No Way Home",
+      "originalTitle": "Spider-Man: No Way Home",
+      "year": 2021,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "duration": "2h 28m",
+      "poster": "g0",
+      "description": "Piter Parker ko'p koinotlar bo'ronini keltirib chiqaradi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
+      },
+      "createdAt": "2021-12-01T00:00:00.000Z",
+      "updatedAt": "2021-12-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "topgun",
+      "title": "Top Gun: Maverick",
+      "originalTitle": "Top Gun: Maverick",
+      "year": 2022,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "duration": "2h 11m",
+      "poster": "g6",
+      "description": "Maverik yosh uchuvchilarni xavfli missiyaga tayyorlaydi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4"
+      },
+      "createdAt": "2022-05-01T00:00:00.000Z",
+      "updatedAt": "2022-05-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "avengers4",
+      "title": "Avengers: Endgame",
+      "originalTitle": "Avengers: Endgame",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "duration": "3h 01m",
+      "poster": "g5",
+      "description": "Qolgan Avengerlar Thanosga qarshi so'nggi urinishni amalga oshiradilar.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/sintel/mp4/h264/360/Sintel_360_10s_1MB.mp4"
+      },
+      "createdAt": "2019-04-01T00:00:00.000Z",
+      "updatedAt": "2019-04-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "avengers3",
+      "title": "Avengers: Infinity War",
+      "originalTitle": "Avengers: Infinity War",
+      "year": 2018,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "duration": "2h 29m",
+      "poster": "g2",
+      "description": "Avengerlar Tanosga to'sqinlik qilish uchun birlashadilar.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/360/Jellyfish_360_10s_1MB.mp4"
+      },
+      "createdAt": "2018-04-01T00:00:00.000Z",
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "avengers1",
+      "title": "The Avengers",
+      "originalTitle": "The Avengers",
+      "year": 2012,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8,
+      "duration": "2h 23m",
+      "poster": "g4",
+      "description": "Super qahramonlar jamoasi birinchi marta birlashadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+      },
+      "createdAt": "2012-05-01T00:00:00.000Z",
+      "updatedAt": "2012-05-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "johnwick3",
+      "title": "John Wick: Chapter 4",
+      "originalTitle": "John Wick: Chapter 4",
+      "year": 2023,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "duration": "2h 49m",
+      "poster": "g1",
+      "description": "Jon Vik yangi ittifoqchilar topib, ozodligi uchun kurashda davom etadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+      },
+      "createdAt": "2023-03-01T00:00:00.000Z",
+      "updatedAt": "2023-03-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "fightclub",
+      "title": "Fight Club",
+      "originalTitle": "Fight Club",
+      "year": 1999,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.8,
+      "duration": "2h 19m",
+      "poster": "g7",
+      "description": "Qahramon sirli sovun ishlab chiqaruvchi bilan jang klubini tashkil qiladi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4"
+      },
+      "createdAt": "1999-10-01T00:00:00.000Z",
+      "updatedAt": "1999-10-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    },
+    {
+      "id": "forrestgump",
+      "title": "Forrest Gump",
+      "originalTitle": "Forrest Gump",
+      "year": 1994,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "duration": "2h 22m",
+      "poster": "g3",
+      "description": "Forrest Gampning hayoti orqali AQSh tarixidagi voqealar tasvirlanadi.",
+      "posterUrl": "",
+      "backdropUrl": "",
+      "videoSources": {
+        "url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
+      },
+      "createdAt": "1994-07-01T00:00:00.000Z",
+      "updatedAt": "1994-07-01T00:00:00.000Z",
+      "status": "active",
+      "featured": false
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller",
+    "Anime",
+    "Romance",
+    "Documentary",
+    "Fantasy",
+    "Crime",
+    "History"
+  ],
+  "users": {
+    "999": {
+      "id": "999",
+      "telegramId": "999",
+      "username": "",
+      "firstName": "",
+      "lastName": "",
+      "photoUrl": "",
+      "language": "",
+      "createdAt": "2026-08-10T03:28:26.059Z",
+      "updatedAt": "2026-08-10T03:38:18.382Z",
+      "lastSeenAt": "2026-08-10T03:38:18.382Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false
+    }
+  },
+  "favorites": {
+    "999": []
+  },
+  "history": {
+    "888": [
+      {
+        "movieId": "interstellar",
+        "progressPct": 42,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-10T03:28:26.153Z",
+        "lastWatchedAt": "2026-08-10T03:38:18.490Z"
+      }
+    ]
+  },
+  "auditLog": [
+    {
+      "id": "c9a1e924f22b",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.544Z",
+      "newValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "382b6782af29",
+      "adminId": "",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.559Z",
+      "oldValue": {
+        "id": "crud-test-c5e2d9",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:38:18.542Z",
+        "updatedAt": "2026-08-10T03:38:18.558Z"
+      },
+      "newValue": {
+        "id": "crud-test-c5e2d9",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:38:18.542Z",
+        "updatedAt": "2026-08-10T03:38:18.558Z"
+      }
+    },
+    {
+      "id": "f27e923c62cb",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.573Z",
+      "oldValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "d2634c15ff40",
+      "adminId": "",
+      "action": "ADMIN_CREATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:38:18.613Z",
+      "newValue": "Neo-Noir"
+    },
+    {
+      "id": "edc88465acb1",
+      "adminId": "",
+      "action": "ADMIN_DELETED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:38:18.634Z",
+      "oldValue": "Neo-Noir"
+    }
+  ],
+  "analytics": {
+    "days": {
+      "2026-08-10": {
+        "userOpenedApp": 1,
+        "favoriteAdded": 1,
+        "favoriteRemoved": 1,
+        "historyUpdated": 1
+      }
+    },
+    "moviePlays": {}
+  }
+}

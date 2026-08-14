@@ -1,0 +1,3226 @@
+{
+  "movies": [],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller",
+    "Anime",
+    "Romance",
+    "Documentary",
+    "Fantasy",
+    "Crime",
+    "History"
+  ],
+  "deactivatedGenres": [],
+  "users": {
+    "1": {
+      "id": "1",
+      "telegramId": "1",
+      "username": "",
+      "firstName": "",
+      "lastName": "",
+      "photoUrl": "",
+      "language": "",
+      "createdAt": "2026-08-11T19:21:34.557Z",
+      "updatedAt": "2026-08-11T19:22:08.103Z",
+      "lastSeenAt": "2026-08-11T19:22:08.103Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    },
+    "999": {
+      "id": "999",
+      "telegramId": "999",
+      "username": "",
+      "firstName": "",
+      "lastName": "",
+      "photoUrl": "",
+      "language": "",
+      "createdAt": "2026-08-10T03:28:26.059Z",
+      "updatedAt": "2026-08-11T17:57:00.461Z",
+      "lastSeenAt": "2026-08-10T03:51:59.406Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    },
+    "99999": {
+      "id": "99999",
+      "telegramId": "99999",
+      "username": "",
+      "firstName": "",
+      "lastName": "",
+      "photoUrl": "",
+      "language": "",
+      "createdAt": "2026-08-12T02:02:26.075Z",
+      "updatedAt": "2026-08-12T06:51:20.647Z",
+      "lastSeenAt": "2026-08-12T06:51:20.647Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    },
+    "8249917172": {
+      "id": "8249917172",
+      "telegramId": "8249917172",
+      "username": "Fayzulloyev_Ibodullo",
+      "firstName": "Ibodullo",
+      "lastName": "Fayzulloyev",
+      "photoUrl": "https://t.me/i/userpic/320/Nxl_HG3nRNKSuzdtPYgcSsqTdW7i5MPndGTDRf1qi3uGPANXyCDJ_BmGOYoxtmuy.svg",
+      "language": "uz",
+      "createdAt": "2026-08-11T17:49:31.353Z",
+      "updatedAt": "2026-08-14T00:42:22.771Z",
+      "lastSeenAt": "2026-08-14T00:42:22.771Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    },
+    "8752045573": {
+      "id": "8752045573",
+      "telegramId": "8752045573",
+      "username": "",
+      "firstName": "TELEGRAM BOT GAMES",
+      "lastName": "",
+      "photoUrl": "https://t.me/i/userpic/320/iDagG1-ipYQink5VF6273cPuR1VvHvpdwkMyrZXvuRnHpkYZ_RNN_S81RK7vZx6t.svg",
+      "language": "uz",
+      "createdAt": "2026-08-11T17:51:14.574Z",
+      "updatedAt": "2026-08-14T01:22:48.082Z",
+      "lastSeenAt": "2026-08-14T01:22:48.082Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    },
+    "5842067106": {
+      "id": "5842067106",
+      "telegramId": "5842067106",
+      "username": "samandarhakkulov",
+      "firstName": "Samandar Hakkulov",
+      "lastName": "",
+      "photoUrl": "https://t.me/i/userpic/320/LIdrSb02KhIDBC6mp2QKHlFGV_VsHoDchMUUz-pWoBxVumjFPHGtMmUwDq2AR0Oa.svg",
+      "language": "en",
+      "createdAt": "2026-08-11T17:56:52.920Z",
+      "updatedAt": "2026-08-12T07:03:11.127Z",
+      "lastSeenAt": "2026-08-12T07:03:11.127Z",
+      "status": "ACTIVE",
+      "isAdmin": false,
+      "isBlocked": false,
+      "premium": {
+        "status": "free",
+        "plan": null,
+        "expiresAt": null,
+        "activatedAt": null
+      }
+    }
+  },
+  "favorites": {
+    "999": [],
+    "8752045573": [
+      "birinchi-0f04c5"
+    ],
+    "8249917172": []
+  },
+  "history": {
+    "888": [
+      {
+        "movieId": "interstellar",
+        "progressPct": 42,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-10T03:28:26.153Z",
+        "lastWatchedAt": "2026-08-10T03:51:59.571Z"
+      }
+    ],
+    "99999": [
+      {
+        "movieId": "a-1907cf",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T05:45:29.921Z",
+        "lastWatchedAt": "2026-08-12T06:51:24.452Z"
+      }
+    ],
+    "5842067106": [
+      {
+        "movieId": "fightclub",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-11T17:56:57.791Z",
+        "lastWatchedAt": "2026-08-12T07:03:34.580Z"
+      },
+      {
+        "movieId": "interstellar",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-11T17:57:07.984Z",
+        "lastWatchedAt": "2026-08-11T17:57:07.984Z"
+      },
+      {
+        "movieId": "a-1907cf",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T02:05:01.832Z",
+        "lastWatchedAt": "2026-08-12T02:05:07.278Z"
+      },
+      {
+        "movieId": "topgun",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T07:03:46.610Z",
+        "lastWatchedAt": "2026-08-12T07:03:46.610Z"
+      }
+    ],
+    "8752045573": [
+      {
+        "movieId": "darkknight",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-11T18:01:15.367Z",
+        "lastWatchedAt": "2026-08-11T18:01:15.367Z"
+      },
+      {
+        "movieId": "batman",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-11T18:01:39.375Z",
+        "lastWatchedAt": "2026-08-11T18:01:39.375Z"
+      },
+      {
+        "movieId": "birinchi-0f04c5",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-11T18:18:27.160Z",
+        "lastWatchedAt": "2026-08-11T18:37:33.003Z"
+      },
+      {
+        "movieId": "car-77ef73",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T01:13:46.072Z",
+        "lastWatchedAt": "2026-08-12T01:33:34.746Z"
+      },
+      {
+        "movieId": "a-1907cf",
+        "progressPct": 40,
+        "positionSeconds": 14,
+        "completed": true,
+        "watchedAt": "2026-08-12T01:34:57.056Z",
+        "lastWatchedAt": "2026-08-12T06:47:21.018Z"
+      },
+      {
+        "movieId": "avatar",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T06:07:29.710Z",
+        "lastWatchedAt": "2026-08-12T06:07:43.358Z"
+      },
+      {
+        "movieId": "aaa-9b36fd",
+        "progressPct": 100,
+        "positionSeconds": 0,
+        "completed": true,
+        "watchedAt": "2026-08-12T06:12:02.296Z",
+        "lastWatchedAt": "2026-08-12T06:47:54.801Z"
+      },
+      {
+        "movieId": "aaaaaa-ca058c",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T06:33:46.853Z",
+        "lastWatchedAt": "2026-08-12T06:33:46.853Z"
+      },
+      {
+        "movieId": "doomsday-0e15d7",
+        "progressPct": 38,
+        "positionSeconds": 55,
+        "completed": false,
+        "watchedAt": "2026-08-12T13:01:52.275Z",
+        "lastWatchedAt": "2026-08-12T13:02:49.504Z"
+      },
+      {
+        "movieId": "sparta-bda143",
+        "progressPct": 10,
+        "positionSeconds": 10,
+        "completed": true,
+        "watchedAt": "2026-08-12T13:31:33.053Z",
+        "lastWatchedAt": "2026-08-13T16:53:27.813Z"
+      },
+      {
+        "movieId": "spiderman-bad757",
+        "progressPct": 97,
+        "positionSeconds": 156,
+        "completed": true,
+        "watchedAt": "2026-08-13T15:37:08.260Z",
+        "lastWatchedAt": "2026-08-13T15:39:46.783Z"
+      },
+      {
+        "movieId": "doomsday-75ecbc",
+        "progressPct": 17,
+        "positionSeconds": 24,
+        "completed": false,
+        "watchedAt": "2026-08-14T01:05:18.354Z",
+        "lastWatchedAt": "2026-08-14T01:05:36.071Z"
+      },
+      {
+        "movieId": "spiderman-f556d5",
+        "progressPct": 8,
+        "positionSeconds": 12,
+        "completed": false,
+        "watchedAt": "2026-08-14T01:07:32.529Z",
+        "lastWatchedAt": "2026-08-14T01:07:37.494Z"
+      }
+    ],
+    "8249917172": [
+      {
+        "movieId": "a-1907cf",
+        "progressPct": 100,
+        "positionSeconds": 0,
+        "completed": true,
+        "watchedAt": "2026-08-12T05:31:45.857Z",
+        "lastWatchedAt": "2026-08-12T07:02:18.849Z"
+      },
+      {
+        "movieId": "avatar",
+        "progressPct": 0,
+        "positionSeconds": 0,
+        "completed": false,
+        "watchedAt": "2026-08-12T06:10:01.566Z",
+        "lastWatchedAt": "2026-08-12T06:10:01.566Z"
+      },
+      {
+        "movieId": "aaa-9b36fd",
+        "progressPct": 100,
+        "positionSeconds": 0,
+        "completed": true,
+        "watchedAt": "2026-08-12T06:59:25.591Z",
+        "lastWatchedAt": "2026-08-12T07:01:35.229Z"
+      },
+      {
+        "movieId": "fightclub",
+        "progressPct": 100,
+        "positionSeconds": 0,
+        "completed": true,
+        "watchedAt": "2026-08-12T07:12:52.097Z",
+        "lastWatchedAt": "2026-08-12T07:13:11.247Z"
+      },
+      {
+        "movieId": "topgun",
+        "progressPct": 51,
+        "positionSeconds": 5,
+        "completed": false,
+        "watchedAt": "2026-08-12T07:13:15.879Z",
+        "lastWatchedAt": "2026-08-12T07:13:22.196Z"
+      },
+      {
+        "movieId": "spiderman",
+        "progressPct": 15,
+        "positionSeconds": 5,
+        "completed": false,
+        "watchedAt": "2026-08-12T07:13:27.517Z",
+        "lastWatchedAt": "2026-08-12T07:13:35.013Z"
+      },
+      {
+        "movieId": "avengers3",
+        "progressPct": 51,
+        "positionSeconds": 5,
+        "completed": false,
+        "watchedAt": "2026-08-12T07:13:40.421Z",
+        "lastWatchedAt": "2026-08-12T07:13:46.152Z"
+      }
+    ]
+  },
+  "auditLog": [
+    {
+      "id": "c9a1e924f22b",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.544Z",
+      "newValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "382b6782af29",
+      "adminId": "",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.559Z",
+      "oldValue": {
+        "id": "crud-test-c5e2d9",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:38:18.542Z",
+        "updatedAt": "2026-08-10T03:38:18.558Z"
+      },
+      "newValue": {
+        "id": "crud-test-c5e2d9",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:38:18.542Z",
+        "updatedAt": "2026-08-10T03:38:18.558Z"
+      }
+    },
+    {
+      "id": "f27e923c62cb",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c5e2d9",
+      "timestamp": "2026-08-10T03:38:18.573Z",
+      "oldValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "d2634c15ff40",
+      "adminId": "",
+      "action": "ADMIN_CREATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:38:18.613Z",
+      "newValue": "Neo-Noir"
+    },
+    {
+      "id": "edc88465acb1",
+      "adminId": "",
+      "action": "ADMIN_DELETED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:38:18.634Z",
+      "oldValue": "Neo-Noir"
+    },
+    {
+      "id": "1d00963432e5",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c6a8fe",
+      "timestamp": "2026-08-10T03:47:55.347Z",
+      "newValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "cc0ad739a6f5",
+      "adminId": "",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c6a8fe",
+      "timestamp": "2026-08-10T03:47:55.364Z",
+      "oldValue": {
+        "id": "crud-test-c6a8fe",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:47:55.345Z",
+        "updatedAt": "2026-08-10T03:47:55.358Z"
+      },
+      "newValue": {
+        "id": "crud-test-c6a8fe",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:47:55.345Z",
+        "updatedAt": "2026-08-10T03:47:55.358Z"
+      }
+    },
+    {
+      "id": "170c681c4e11",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-c6a8fe",
+      "timestamp": "2026-08-10T03:47:55.372Z",
+      "oldValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "125c4836af3b",
+      "adminId": "",
+      "action": "ADMIN_CREATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:47:55.398Z",
+      "newValue": "Neo-Noir"
+    },
+    {
+      "id": "c641e56ec16b",
+      "adminId": "",
+      "action": "ADMIN_DELETED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:47:55.416Z",
+      "oldValue": "Neo-Noir"
+    },
+    {
+      "id": "29e1998ad319",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-9c7b27",
+      "timestamp": "2026-08-10T03:51:34.411Z",
+      "newValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "dabcf2d2d5d7",
+      "adminId": "",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-9c7b27",
+      "timestamp": "2026-08-10T03:51:34.430Z",
+      "oldValue": {
+        "id": "crud-test-9c7b27",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:51:34.409Z",
+        "updatedAt": "2026-08-10T03:51:34.426Z"
+      },
+      "newValue": {
+        "id": "crud-test-9c7b27",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:51:34.409Z",
+        "updatedAt": "2026-08-10T03:51:34.426Z"
+      }
+    },
+    {
+      "id": "04fc7a05dba3",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-9c7b27",
+      "timestamp": "2026-08-10T03:51:34.444Z",
+      "oldValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "1a9c5afefcfc",
+      "adminId": "",
+      "action": "ADMIN_CREATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:51:34.476Z",
+      "newValue": "Neo-Noir"
+    },
+    {
+      "id": "de5940548592",
+      "adminId": "",
+      "action": "ADMIN_DELETED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:51:34.499Z",
+      "oldValue": "Neo-Noir"
+    },
+    {
+      "id": "d1cec42c3e02",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-0c2fa2",
+      "timestamp": "2026-08-10T03:51:59.651Z",
+      "newValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "24486bcc3ca4",
+      "adminId": "",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-0c2fa2",
+      "timestamp": "2026-08-10T03:51:59.678Z",
+      "oldValue": {
+        "id": "crud-test-0c2fa2",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:51:59.645Z",
+        "updatedAt": "2026-08-10T03:51:59.676Z"
+      },
+      "newValue": {
+        "id": "crud-test-0c2fa2",
+        "title": "CRUD Test",
+        "originalTitle": "",
+        "year": 2024,
+        "genres": [
+          "Drama"
+        ],
+        "rating": 9.9,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "",
+        "backdropUrl": "",
+        "videoSources": null,
+        "status": "active",
+        "featured": false,
+        "createdAt": "2026-08-10T03:51:59.645Z",
+        "updatedAt": "2026-08-10T03:51:59.676Z"
+      }
+    },
+    {
+      "id": "6b307c5a83a8",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "crud-test-0c2fa2",
+      "timestamp": "2026-08-10T03:51:59.693Z",
+      "oldValue": {
+        "title": "CRUD Test"
+      }
+    },
+    {
+      "id": "9bd498743889",
+      "adminId": "",
+      "action": "ADMIN_CREATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:51:59.725Z",
+      "newValue": "Neo-Noir"
+    },
+    {
+      "id": "09451f32e286",
+      "adminId": "",
+      "action": "ADMIN_DELETED_GENRE",
+      "entityType": "genre",
+      "entityId": "Neo-Noir",
+      "timestamp": "2026-08-10T03:51:59.761Z",
+      "oldValue": "Neo-Noir"
+    },
+    {
+      "id": "638ccb4eb893",
+      "adminId": "",
+      "action": "ADMIN_DEACTIVATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Drama",
+      "timestamp": "2026-08-10T05:04:12.646Z"
+    },
+    {
+      "id": "632982d9acd2",
+      "adminId": "",
+      "action": "ADMIN_ACTIVATED_GENRE",
+      "entityType": "genre",
+      "entityId": "Drama",
+      "timestamp": "2026-08-10T05:04:13.644Z"
+    },
+    {
+      "id": "5762a0fd4e2d",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "dune2",
+      "timestamp": "2026-08-11T17:51:33.587Z",
+      "oldValue": {
+        "title": "Dune: Part Two"
+      }
+    },
+    {
+      "id": "3614e7e2b7e4",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "birinchi-0f04c5",
+      "timestamp": "2026-08-11T17:52:35.383Z",
+      "newValue": {
+        "title": "Birinchi."
+      }
+    },
+    {
+      "id": "67f6eef129f8",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_USER",
+      "entityType": "user",
+      "entityId": "999",
+      "timestamp": "2026-08-11T17:56:41.354Z",
+      "oldValue": {
+        "id": "999",
+        "telegramId": "999",
+        "username": "",
+        "firstName": "",
+        "lastName": "",
+        "photoUrl": "",
+        "language": "",
+        "createdAt": "2026-08-10T03:28:26.059Z",
+        "updatedAt": "2026-08-11T17:57:00.461Z",
+        "lastSeenAt": "2026-08-10T03:51:59.406Z",
+        "status": "ACTIVE",
+        "isAdmin": false,
+        "isBlocked": false
+      },
+      "newValue": {
+        "id": "999",
+        "telegramId": "999",
+        "username": "",
+        "firstName": "",
+        "lastName": "",
+        "photoUrl": "",
+        "language": "",
+        "createdAt": "2026-08-10T03:28:26.059Z",
+        "updatedAt": "2026-08-11T17:57:00.461Z",
+        "lastSeenAt": "2026-08-10T03:51:59.406Z",
+        "status": "ACTIVE",
+        "isAdmin": false,
+        "isBlocked": false
+      }
+    },
+    {
+      "id": "4f3105aba048",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_USER",
+      "entityType": "user",
+      "entityId": "999",
+      "timestamp": "2026-08-11T17:56:45.813Z",
+      "oldValue": {
+        "id": "999",
+        "telegramId": "999",
+        "username": "",
+        "firstName": "",
+        "lastName": "",
+        "photoUrl": "",
+        "language": "",
+        "createdAt": "2026-08-10T03:28:26.059Z",
+        "updatedAt": "2026-08-11T17:57:00.461Z",
+        "lastSeenAt": "2026-08-10T03:51:59.406Z",
+        "status": "ACTIVE",
+        "isAdmin": false,
+        "isBlocked": false
+      },
+      "newValue": {
+        "id": "999",
+        "telegramId": "999",
+        "username": "",
+        "firstName": "",
+        "lastName": "",
+        "photoUrl": "",
+        "language": "",
+        "createdAt": "2026-08-10T03:28:26.059Z",
+        "updatedAt": "2026-08-11T17:57:00.461Z",
+        "lastSeenAt": "2026-08-10T03:51:59.406Z",
+        "status": "ACTIVE",
+        "isAdmin": false,
+        "isBlocked": false
+      }
+    },
+    {
+      "id": "849c7eadde79",
+      "adminId": "8752045573",
+      "action": "ADMIN_BLOCKED_USER",
+      "entityType": "user",
+      "entityId": "999",
+      "timestamp": "2026-08-11T17:56:56.907Z",
+      "newValue": {
+        "status": "BLOCKED"
+      }
+    },
+    {
+      "id": "afce5e12fa78",
+      "adminId": "8752045573",
+      "action": "ADMIN_UNBLOCKED_USER",
+      "entityType": "user",
+      "entityId": "999",
+      "timestamp": "2026-08-11T17:57:00.463Z",
+      "newValue": {
+        "status": "ACTIVE"
+      }
+    },
+    {
+      "id": "4a63289474b1",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:10:34.208Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/oppenheimer/360p.mp4",
+        "size": 36
+      }
+    },
+    {
+      "id": "fd7289d9d485",
+      "adminId": "",
+      "action": "ADMIN_DELETED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:10:58.431Z",
+      "oldValue": {
+        "quality": "360p",
+        "objectKey": "movies/oppenheimer/360p.mp4"
+      }
+    },
+    {
+      "id": "18252fc5ff75",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:12:04.132Z",
+      "newValue": {
+        "quality": "480p",
+        "objectKey": "movies/oppenheimer/480p.mp4",
+        "size": 1
+      }
+    },
+    {
+      "id": "e5d9055f5376",
+      "adminId": "",
+      "action": "ADMIN_DELETED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:12:58.436Z",
+      "oldValue": {
+        "quality": "480p",
+        "objectKey": "movies/oppenheimer/480p.mp4"
+      }
+    },
+    {
+      "id": "a9cec85facd1",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:13:10.394Z",
+      "newValue": {
+        "quality": "720p",
+        "objectKey": "movies/oppenheimer/720p.mp4",
+        "size": 17
+      }
+    },
+    {
+      "id": "85cd3f5992b3",
+      "adminId": "",
+      "action": "ADMIN_DELETED_VIDEO",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:13:20.353Z",
+      "oldValue": {
+        "quality": "720p",
+        "objectKey": "movies/oppenheimer/720p.mp4"
+      }
+    },
+    {
+      "id": "a098cbb2f8ff",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "oppenheimer",
+      "timestamp": "2026-08-11T18:21:58.343Z",
+      "oldValue": {
+        "title": "Oppenheimer"
+      }
+    },
+    {
+      "id": "131ca0629b49",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "birinchi-0f04c5",
+      "timestamp": "2026-08-11T18:34:33.180Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/birinchi-0f04c5/360p.mp4",
+        "size": 991017
+      }
+    },
+    {
+      "id": "3bec62ae3c5e",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_VIDEO",
+      "entityType": "movie",
+      "entityId": "birinchi-0f04c5",
+      "timestamp": "2026-08-11T18:37:59.891Z",
+      "oldValue": {
+        "quality": "360p",
+        "objectKey": "movies/birinchi-0f04c5/360p.mp4"
+      }
+    },
+    {
+      "id": "f8c2dfd00e53",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "birinchi-0f04c5",
+      "timestamp": "2026-08-11T18:39:29.156Z",
+      "oldValue": {
+        "title": "Birinchi."
+      }
+    },
+    {
+      "id": "28bef7e6c7c2",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "batman",
+      "timestamp": "2026-08-11T18:39:37.921Z",
+      "oldValue": {
+        "title": "The Batman"
+      }
+    },
+    {
+      "id": "0e7af5e98f98",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "interstellar",
+      "timestamp": "2026-08-11T18:39:56.871Z",
+      "oldValue": {
+        "title": "Interstellar"
+      }
+    },
+    {
+      "id": "a3212fbd1b69",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "darkknight",
+      "timestamp": "2026-08-11T18:40:01.913Z",
+      "oldValue": {
+        "title": "The Dark Knight"
+      }
+    },
+    {
+      "id": "b3516224d3a5",
+      "adminId": "",
+      "action": "ADMIN_CHANGED_PASSWORD",
+      "entityType": "admin",
+      "entityId": "password",
+      "timestamp": "2026-08-11T18:52:47.378Z"
+    },
+    {
+      "id": "50d49a5abd6d",
+      "adminId": "",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "johnwick4",
+      "timestamp": "2026-08-11T18:56:47.288Z",
+      "newValue": {
+        "ext": "png",
+        "size": 70
+      }
+    },
+    {
+      "id": "a61c77aea8eb",
+      "adminId": "",
+      "action": "ADMIN_DELETED_POSTER",
+      "entityType": "movie",
+      "entityId": "johnwick4",
+      "timestamp": "2026-08-11T18:56:56.883Z",
+      "oldValue": {
+        "posterUrl": "/api/movies/johnwick4/poster"
+      }
+    },
+    {
+      "id": "18322e01a402",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "poster-test-57ab70",
+      "timestamp": "2026-08-11T19:03:37.292Z",
+      "newValue": {
+        "title": "Poster Test"
+      }
+    },
+    {
+      "id": "f05b6338c9ba",
+      "adminId": "",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "poster-test-57ab70",
+      "timestamp": "2026-08-11T19:03:47.613Z",
+      "newValue": {
+        "ext": "png",
+        "size": 70
+      }
+    },
+    {
+      "id": "92e28e0fd4a8",
+      "adminId": "",
+      "action": "ADMIN_DELETED_POSTER",
+      "entityType": "movie",
+      "entityId": "poster-test-57ab70",
+      "timestamp": "2026-08-11T19:03:55.044Z",
+      "oldValue": {
+        "posterUrl": "/api/movies/poster-test-57ab70/poster"
+      }
+    },
+    {
+      "id": "1ab92e9c7545",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "poster-test-57ab70",
+      "timestamp": "2026-08-11T19:03:55.094Z",
+      "oldValue": {
+        "title": "Poster Test"
+      }
+    },
+    {
+      "id": "038a58e2069c",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "val-test-e2e7c7",
+      "timestamp": "2026-08-11T19:04:33.632Z",
+      "newValue": {
+        "title": "Val Test"
+      }
+    },
+    {
+      "id": "61bdea1bfaa5",
+      "adminId": "",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "val-test-e2e7c7",
+      "timestamp": "2026-08-11T19:04:33.997Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 160
+      }
+    },
+    {
+      "id": "e124af9541f2",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "val-test-e2e7c7",
+      "timestamp": "2026-08-11T19:04:34.030Z",
+      "oldValue": {
+        "title": "Val Test"
+      }
+    },
+    {
+      "id": "14f853905720",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:08:51.651Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Reklama",
+        "hasImage": false
+      }
+    },
+    {
+      "id": "ca4e5fca00bf",
+      "adminId": "",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:08:51.705Z",
+      "oldValue": {
+        "type": "ad",
+        "active": true,
+        "title": "Reklama",
+        "text": "Test matni",
+        "link": "https://example.com"
+      }
+    },
+    {
+      "id": "931016b226b2",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:09:01.138Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Reklama",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "c8f4e6563798",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:09:01.206Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "R",
+        "hasImage": false
+      }
+    },
+    {
+      "id": "e3d33c339851",
+      "adminId": "",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:09:01.254Z",
+      "oldValue": {
+        "type": "ad",
+        "active": true,
+        "title": "R",
+        "text": "",
+        "link": "https://e.com",
+        "imageUrl": ""
+      }
+    },
+    {
+      "id": "75b9728581ee",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "banner-movie-1a25d4",
+      "timestamp": "2026-08-11T19:09:11.631Z",
+      "newValue": {
+        "title": "Banner Movie"
+      }
+    },
+    {
+      "id": "132cad4af985",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:09:12.015Z",
+      "newValue": {
+        "type": "movie",
+        "movieId": "banner-movie-1a25d4",
+        "title": null,
+        "hasImage": false
+      }
+    },
+    {
+      "id": "2649e3cbd963",
+      "adminId": "",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:09:12.102Z",
+      "oldValue": {
+        "type": "movie",
+        "active": true,
+        "movieId": "banner-movie-1a25d4"
+      }
+    },
+    {
+      "id": "fc6e2d45a194",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "banner-movie-1a25d4",
+      "timestamp": "2026-08-11T19:09:12.135Z",
+      "oldValue": {
+        "title": "Banner Movie"
+      }
+    },
+    {
+      "id": "7f0538e651f3",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:19:18.706Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Premium kino platformasi",
+        "hasImage": false
+      }
+    },
+    {
+      "id": "9e605bdac668",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:19:29.344Z",
+      "newValue": {
+        "type": "movie",
+        "movieId": "johnwick4",
+        "title": null,
+        "hasImage": false
+      }
+    },
+    {
+      "id": "279297d40b0d",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:19:44.185Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Reklama rasmi bilan",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "4e0964a92285",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:19:51.536Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Yashirin banner",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "5deebe535e65",
+      "adminId": "",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:19:51.625Z",
+      "oldValue": {
+        "type": "ad",
+        "active": false,
+        "title": "Yashirin banner",
+        "text": "",
+        "link": "https://example.com",
+        "imageUrl": "/api/banner/image"
+      }
+    },
+    {
+      "id": "f54dc8f945e0",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:21:29.100Z",
+      "newValue": {
+        "type": "movie",
+        "movieId": "johnwick4",
+        "title": null,
+        "hasImage": false
+      }
+    },
+    {
+      "id": "6512eb5f8505",
+      "adminId": "",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:22:03.222Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Premium kino platformasi",
+        "hasImage": false
+      }
+    },
+    {
+      "id": "ee3cbcc392ab",
+      "adminId": "",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-11T19:26:20.270Z",
+      "oldValue": {
+        "type": "ad",
+        "active": true,
+        "title": "Premium kino platformasi",
+        "text": "Oylik obuna orqali barcha filmlarni HD sifatda tomosha qiling — 30 kunlik sinov muddati bilan",
+        "link": "https://example.com/subscribe"
+      }
+    },
+    {
+      "id": "1d1a004c4628",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-88f2cf",
+      "timestamp": "2026-08-12T01:09:52.942Z",
+      "newValue": {
+        "title": "E2E Local Test"
+      }
+    },
+    {
+      "id": "4b5068e1084b",
+      "adminId": "",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-3b8cf9",
+      "timestamp": "2026-08-12T01:10:22.272Z",
+      "newValue": {
+        "title": "E2E Local Test"
+      }
+    },
+    {
+      "id": "b969469308f7",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-3b8cf9",
+      "timestamp": "2026-08-12T01:10:22.379Z",
+      "newValue": {
+        "quality": "720p",
+        "objectKey": "movies/e2e-local-test-3b8cf9/720p.mp4",
+        "size": 120,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "61d99f257821",
+      "adminId": "",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-3b8cf9",
+      "timestamp": "2026-08-12T01:10:22.450Z",
+      "newValue": {
+        "quality": "1080p",
+        "objectKey": "movies/e2e-local-test-3b8cf9/1080p.mp4",
+        "size": 16,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "186186c0a363",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-3b8cf9",
+      "timestamp": "2026-08-12T01:10:22.472Z",
+      "oldValue": {
+        "title": "E2E Local Test"
+      }
+    },
+    {
+      "id": "a0fa556e0ad4",
+      "adminId": "",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "e2e-local-test-88f2cf",
+      "timestamp": "2026-08-12T01:10:34.139Z",
+      "oldValue": {
+        "title": "E2E Local Test"
+      }
+    },
+    {
+      "id": "ad15d7a67964",
+      "adminId": "8752045573",
+      "action": "ADMIN_CHANGED_PASSWORD",
+      "entityType": "admin",
+      "entityId": "password",
+      "timestamp": "2026-08-12T01:12:03.206Z"
+    },
+    {
+      "id": "d89f213da2ce",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "car-77ef73",
+      "timestamp": "2026-08-12T01:12:39.719Z",
+      "newValue": {
+        "title": "Car"
+      }
+    },
+    {
+      "id": "f7be139748e7",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "car-77ef73",
+      "timestamp": "2026-08-12T01:13:37.063Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/car-77ef73/360p.mp4",
+        "size": 15119406,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "bc2a7f3e5a78",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "car-77ef73",
+      "timestamp": "2026-08-12T01:13:44.277Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 70326
+      }
+    },
+    {
+      "id": "a5aa4c318da3",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "car-77ef73",
+      "timestamp": "2026-08-12T01:32:48.449Z",
+      "newValue": {
+        "quality": "480p",
+        "objectKey": "movies/car-77ef73/480p.mp4",
+        "size": 15119406,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "e223a664deaa",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "car-77ef73",
+      "timestamp": "2026-08-12T01:33:48.078Z",
+      "oldValue": {
+        "title": "Car"
+      }
+    },
+    {
+      "id": "b66c10b189c5",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "a-1907cf",
+      "timestamp": "2026-08-12T01:34:03.814Z",
+      "newValue": {
+        "title": "A"
+      }
+    },
+    {
+      "id": "4fc2e08f5802",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "a-1907cf",
+      "timestamp": "2026-08-12T01:34:49.297Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/a-1907cf/360p.mp4",
+        "size": 1865035,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "67d7a1df23c7",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "a-1907cf",
+      "timestamp": "2026-08-12T01:34:51.957Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 27346
+      }
+    },
+    {
+      "id": "1f3a6a2ddb91",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "johnwick4",
+      "timestamp": "2026-08-12T01:52:51.776Z",
+      "oldValue": {
+        "title": "John Wick 4"
+      }
+    },
+    {
+      "id": "132d66dc4ef7",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:33.608Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "2f1be9bd1bb2",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:34.602Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "4bbebd37c938",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:34.790Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "9367c55dde13",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:34.931Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "78bacc96e569",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:35.107Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "4459156760d6",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:35.295Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "c610fec42de9",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:35.432Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "1ff66ddac623",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:35.560Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "6242f3a97d33",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:36.255Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "24adb74bdbb2",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:36.405Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "f4f9c4ee85cd",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:36.516Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "c0e9166da160",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:36.539Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "6faa52969751",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:36.861Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "3d1bd23edf0f",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:41.531Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "f8fa5c0781ca",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.234Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "fe93af31f627",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.468Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "9f289c07193f",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.572Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "568f6bedb1bb",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.658Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "fe71c43dd069",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.697Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "11e3daf8efeb",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.713Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "ddf989745edd",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-12T02:01:42.729Z",
+      "newValue": {
+        "type": "ad",
+        "movieId": null,
+        "title": "Bot",
+        "hasImage": true
+      }
+    },
+    {
+      "id": "d28b0b9a9604",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "a-1907cf",
+      "timestamp": "2026-08-12T06:06:17.082Z",
+      "newValue": {
+        "quality": "480p",
+        "objectKey": "movies/a-1907cf/480p.mp4",
+        "size": 31520306,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "a533a7bb7b42",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "avatar",
+      "timestamp": "2026-08-12T06:07:03.774Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/avatar/360p.mp4",
+        "size": 15119406,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "2c7b533ebbeb",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "avatar",
+      "timestamp": "2026-08-12T06:07:10.987Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 70326
+      }
+    },
+    {
+      "id": "445dbb700c0a",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avatar",
+      "timestamp": "2026-08-12T06:10:43.337Z",
+      "oldValue": {
+        "title": "Avatar: The Way of Water"
+      }
+    },
+    {
+      "id": "6788f5a68410",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "aaa-9b36fd",
+      "timestamp": "2026-08-12T06:11:07.975Z",
+      "newValue": {
+        "title": "Aaa"
+      }
+    },
+    {
+      "id": "cfa8ab5a4561",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "aaa-9b36fd",
+      "timestamp": "2026-08-12T06:11:38.987Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/aaa-9b36fd/360p.mp4",
+        "size": 15119406,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "cd11a9ac3466",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "aaa-9b36fd",
+      "timestamp": "2026-08-12T06:11:45.872Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 70326
+      }
+    },
+    {
+      "id": "5b7fe38c010b",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "aaaaaa-ca058c",
+      "timestamp": "2026-08-12T06:32:55.345Z",
+      "newValue": {
+        "title": "Aaaaaa"
+      }
+    },
+    {
+      "id": "cc402bcbdd06",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "aaaaaa-ca058c",
+      "timestamp": "2026-08-12T06:33:27.048Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/aaaaaa-ca058c/360p.mp4",
+        "size": 3031838,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "f4200a8dbbcb",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "aaaaaa-ca058c",
+      "timestamp": "2026-08-12T06:33:30.100Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 5078
+      }
+    },
+    {
+      "id": "e5e4464ef3ef",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "aaaaaa-ca058c",
+      "timestamp": "2026-08-12T07:24:48.483Z",
+      "oldValue": {
+        "title": "Aaaaaa"
+      }
+    },
+    {
+      "id": "f437665a452d",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "aaa-9b36fd",
+      "timestamp": "2026-08-12T07:24:50.124Z",
+      "oldValue": {
+        "title": "Aaa"
+      }
+    },
+    {
+      "id": "f09ec244825f",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "a-1907cf",
+      "timestamp": "2026-08-12T07:24:51.969Z",
+      "oldValue": {
+        "title": "A"
+      }
+    },
+    {
+      "id": "80595f6739aa",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "topgun",
+      "timestamp": "2026-08-12T07:24:53.503Z",
+      "oldValue": {
+        "title": "Top Gun: Maverick"
+      }
+    },
+    {
+      "id": "2db0ddcbed10",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "forrestgump",
+      "timestamp": "2026-08-12T07:24:57.696Z",
+      "oldValue": {
+        "title": "Forrest Gump"
+      }
+    },
+    {
+      "id": "b6a2869ba77f",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "fightclub",
+      "timestamp": "2026-08-12T07:24:59.100Z",
+      "oldValue": {
+        "title": "Fight Club"
+      }
+    },
+    {
+      "id": "4054b22463ca",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avengers1",
+      "timestamp": "2026-08-12T07:25:02.996Z",
+      "oldValue": {
+        "title": "The Avengers"
+      }
+    },
+    {
+      "id": "a4989647765c",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avengers3",
+      "timestamp": "2026-08-12T07:25:05.887Z",
+      "oldValue": {
+        "title": "Avengers: Infinity War"
+      }
+    },
+    {
+      "id": "5794e85bf699",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avengers4",
+      "timestamp": "2026-08-12T07:25:08.144Z",
+      "oldValue": {
+        "title": "Avengers: Endgame"
+      }
+    },
+    {
+      "id": "807081a7cf3e",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "johnwick3",
+      "timestamp": "2026-08-12T07:25:09.787Z",
+      "oldValue": {
+        "title": "John Wick: Chapter 4"
+      }
+    },
+    {
+      "id": "9529e8a77121",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman",
+      "timestamp": "2026-08-12T07:25:13.056Z",
+      "oldValue": {
+        "title": "Spider-Man: No Way Home"
+      }
+    },
+    {
+      "id": "f7e1465349ef",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "doomsday-0e15d7",
+      "timestamp": "2026-08-12T13:01:15.702Z",
+      "newValue": {
+        "title": "Doomsday"
+      }
+    },
+    {
+      "id": "34645680c8ef",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "doomsday-0e15d7",
+      "timestamp": "2026-08-12T13:01:40.902Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/doomsday-0e15d7/360p.mp4",
+        "size": 7427761,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "178fc5d8b9f1",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "doomsday-0e15d7",
+      "timestamp": "2026-08-12T13:01:44.015Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 6307
+      }
+    },
+    {
+      "id": "3ae13763d7a7",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "doomsday-0e15d7",
+      "timestamp": "2026-08-12T13:18:37.530Z",
+      "newValue": {
+        "quality": "480p",
+        "objectKey": "movies/doomsday-0e15d7/480p.mp4",
+        "size": 12367188,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "1d7f798ac493",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-bad757",
+      "timestamp": "2026-08-12T13:19:07.126Z",
+      "newValue": {
+        "title": "Spiderman"
+      }
+    },
+    {
+      "id": "9853775b65f8",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "spiderman-bad757",
+      "timestamp": "2026-08-12T13:21:09.034Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/spiderman-bad757/360p.mp4",
+        "size": 10002651,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "b27c3628b368",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "spiderman-bad757",
+      "timestamp": "2026-08-12T13:21:12.158Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 2138
+      }
+    },
+    {
+      "id": "32e098b5a511",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:21:24.191Z",
+      "newValue": {
+        "title": "Sparta"
+      }
+    },
+    {
+      "id": "6799adfe8d5d",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:22:07.556Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/sparta-bda143/360p.mp4",
+        "size": 3816950,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "65cd287d5896",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:22:10.292Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 2138
+      }
+    },
+    {
+      "id": "38eeb6868488",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:23:13.481Z",
+      "newValue": {
+        "quality": "1080p",
+        "objectKey": "movies/sparta-bda143/1080p.mp4",
+        "size": 26440752,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "d97a7316c6db",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:23:49.864Z",
+      "newValue": {
+        "quality": "720p",
+        "objectKey": "movies/sparta-bda143/720p.mp4",
+        "size": 26440752,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "776769f60ff4",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:34:35.518Z",
+      "oldValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      },
+      "newValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      }
+    },
+    {
+      "id": "8b09b57e0d1d",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:35:47.783Z",
+      "oldValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      },
+      "newValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      }
+    },
+    {
+      "id": "b34644f61dec",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:35:49.182Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 145423
+      }
+    },
+    {
+      "id": "1adcf9154a60",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:37:51.819Z",
+      "oldValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      },
+      "newValue": {
+        "id": "sparta-bda143",
+        "title": "Oddsey",
+        "originalTitle": "",
+        "year": 2025,
+        "genres": [],
+        "rating": 5,
+        "duration": "",
+        "description": "",
+        "poster": "g0",
+        "posterUrl": "/api/movies/sparta-bda143/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/sparta-bda143/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-12T13:22:07.554Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/sparta-bda143/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:13.480Z",
+            "storageType": "local"
+          },
+          "720p": {
+            "objectKey": "movies/sparta-bda143/720p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-12T13:23:49.861Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": true,
+        "createdAt": "2026-08-12T13:21:24.187Z",
+        "updatedAt": "2026-08-12T13:37:55.234Z"
+      }
+    },
+    {
+      "id": "8e8b3a26e6b7",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-12T13:37:55.239Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 454775
+      }
+    },
+    {
+      "id": "b1c57fe6346b",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avatar-d32089",
+      "timestamp": "2026-08-13T17:41:41.671Z",
+      "newValue": {
+        "title": "Avatar"
+      }
+    },
+    {
+      "id": "7e0e35f08805",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "avatar-d32089",
+      "timestamp": "2026-08-13T17:41:45.759Z",
+      "oldValue": {
+        "title": "Avatar"
+      }
+    },
+    {
+      "id": "e3f5eca47119",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "sparta-bda143",
+      "timestamp": "2026-08-13T18:01:34.765Z",
+      "oldValue": {
+        "title": "Oddsey"
+      }
+    },
+    {
+      "id": "e4a0a49891dc",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-bad757",
+      "timestamp": "2026-08-13T18:01:38.240Z",
+      "oldValue": {
+        "title": "Spiderman"
+      }
+    },
+    {
+      "id": "a76c4bce01f1",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "doomsday-0e15d7",
+      "timestamp": "2026-08-13T18:01:41.308Z",
+      "oldValue": {
+        "title": "Doomsday"
+      }
+    },
+    {
+      "id": "85aec1a7141c",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-13T18:01:54.003Z",
+      "oldValue": {
+        "type": "ad",
+        "active": true,
+        "title": "Bot",
+        "text": "",
+        "link": "",
+        "imageUrl": "/api/banner/image"
+      }
+    },
+    {
+      "id": "dc6d7559bd59",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T00:47:51.123Z",
+      "newValue": {
+        "title": "Doomsday"
+      }
+    },
+    {
+      "id": "8937d3c59b04",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T00:47:51.774Z",
+      "newValue": {
+        "ext": "webp",
+        "size": 22906
+      }
+    },
+    {
+      "id": "db5d097f233d",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T00:48:27.076Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/doomsday-75ecbc/360p.mp4",
+        "size": 7427761,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "5b0d569cf10f",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T00:49:20.574Z",
+      "newValue": {
+        "quality": "480p",
+        "objectKey": "movies/doomsday-75ecbc/480p.mp4",
+        "size": 12367188,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "19535f5d5ea2",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T00:50:00.966Z",
+      "newValue": {
+        "quality": "1080p",
+        "objectKey": "movies/doomsday-75ecbc/1080p.mp4",
+        "size": 35778370,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "6d18e9adab76",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T00:58:28.058Z",
+      "newValue": {
+        "title": "Spiderman"
+      }
+    },
+    {
+      "id": "2089afc50024",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T00:58:29.504Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 168281
+      }
+    },
+    {
+      "id": "5d3eb597c5d5",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T00:59:41.281Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/spiderman-f556d5/360p.mp4",
+        "size": 10002651,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "b4519d8b0488",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T01:00:51.185Z",
+      "oldValue": {
+        "id": "spiderman-f556d5",
+        "title": "Spiderman",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Fantastic"
+        ],
+        "rating": 0,
+        "duration": "1min",
+        "description": "🕷️ SPIDER-MAN: BRAND NEW DAY (2026)\n\nTom Holland yana Spider-Man kostyumini kiyadi! 🕸️\n\nPeter Parker yangi hayot boshlashga urinayotgan bir paytda, uni yanada xavfli va sirli voqealar kutmoqda.\n\n🎬 Film: Spider-Man: Brand New Day\n🕷️ Bosh rolda: Tom Holland\n🎥 Rejissyor: Destin Daniel Cretton\n📅 Premyera: 2026-yil 31-iyul\n\n🔥 Yangi dushmanlar, yangi xavflar va Peter Parker uchun butunlay yangi davr.\n\nSpider-Man yana qaytdi. 🕸️\n\n#SpiderMan #BrandNewDay #SpiderMan2026 #TomHolland #Marvel #MCU #SonyPictures\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/spiderman-f556d5/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/spiderman-f556d5/360p.mp4",
+            "size": 10002651,
+            "uploadedAt": "2026-08-14T00:59:41.277Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T00:58:28.055Z",
+        "updatedAt": "2026-08-14T01:01:15.611Z"
+      },
+      "newValue": {
+        "id": "spiderman-f556d5",
+        "title": "Spiderman",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Fantastic"
+        ],
+        "rating": 0,
+        "duration": "1min",
+        "description": "🕷️ SPIDER-MAN: BRAND NEW DAY (2026)\n\nTom Holland yana Spider-Man kostyumini kiyadi! 🕸️\n\nPeter Parker yangi hayot boshlashga urinayotgan bir paytda, uni yanada xavfli va sirli voqealar kutmoqda.\n\n🎬 Film: Spider-Man: Brand New Day\n🕷️ Bosh rolda: Tom Holland\n🎥 Rejissyor: Destin Daniel Cretton\n📅 Premyera: 2026-yil 31-iyul\n\n🔥 Yangi dushmanlar, yangi xavflar va Peter Parker uchun butunlay yangi davr.\n\nSpider-Man yana qaytdi. 🕸️\n\n#SpiderMan #BrandNewDay #SpiderMan2026 #TomHolland #Marvel #MCU #SonyPictures\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/spiderman-f556d5/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/spiderman-f556d5/360p.mp4",
+            "size": 10002651,
+            "uploadedAt": "2026-08-14T00:59:41.277Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T00:58:28.055Z",
+        "updatedAt": "2026-08-14T01:01:15.611Z"
+      }
+    },
+    {
+      "id": "7ef2fbf95cb4",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T01:01:14.188Z",
+      "oldValue": {
+        "id": "spiderman-f556d5",
+        "title": "Spiderman",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Fantastic"
+        ],
+        "rating": 0,
+        "duration": "1min",
+        "description": "🕷️ SPIDER-MAN: BRAND NEW DAY (2026)\n\nTom Holland yana Spider-Man kostyumini kiyadi! 🕸️\n\nPeter Parker yangi hayot boshlashga urinayotgan bir paytda, uni yanada xavfli va sirli voqealar kutmoqda.\n\n🎬 Film: Spider-Man: Brand New Day\n🕷️ Bosh rolda: Tom Holland\n🎥 Rejissyor: Destin Daniel Cretton\n📅 Premyera: 2026-yil 31-iyul\n\n🔥 Yangi dushmanlar, yangi xavflar va Peter Parker uchun butunlay yangi davr.\n\nSpider-Man yana qaytdi. 🕸️\n\n#SpiderMan #BrandNewDay #SpiderMan2026 #TomHolland #Marvel #MCU #SonyPictures\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/spiderman-f556d5/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/spiderman-f556d5/360p.mp4",
+            "size": 10002651,
+            "uploadedAt": "2026-08-14T00:59:41.277Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T00:58:28.055Z",
+        "updatedAt": "2026-08-14T01:01:15.611Z"
+      },
+      "newValue": {
+        "id": "spiderman-f556d5",
+        "title": "Spiderman",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Fantastic"
+        ],
+        "rating": 0,
+        "duration": "1min",
+        "description": "🕷️ SPIDER-MAN: BRAND NEW DAY (2026)\n\nTom Holland yana Spider-Man kostyumini kiyadi! 🕸️\n\nPeter Parker yangi hayot boshlashga urinayotgan bir paytda, uni yanada xavfli va sirli voqealar kutmoqda.\n\n🎬 Film: Spider-Man: Brand New Day\n🕷️ Bosh rolda: Tom Holland\n🎥 Rejissyor: Destin Daniel Cretton\n📅 Premyera: 2026-yil 31-iyul\n\n🔥 Yangi dushmanlar, yangi xavflar va Peter Parker uchun butunlay yangi davr.\n\nSpider-Man yana qaytdi. 🕸️\n\n#SpiderMan #BrandNewDay #SpiderMan2026 #TomHolland #Marvel #MCU #SonyPictures\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/spiderman-f556d5/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/spiderman-f556d5/360p.mp4",
+            "size": 10002651,
+            "uploadedAt": "2026-08-14T00:59:41.277Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T00:58:28.055Z",
+        "updatedAt": "2026-08-14T01:01:15.611Z"
+      }
+    },
+    {
+      "id": "4748ddb9b6b1",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T01:01:15.613Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 168281
+      }
+    },
+    {
+      "id": "bb0823911a3a",
+      "adminId": "8752045573",
+      "action": "ADMIN_CREATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:02:00.712Z",
+      "newValue": {
+        "title": "THE ODYSSEY"
+      }
+    },
+    {
+      "id": "a1735fa912e5",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:02:01.615Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 40896
+      }
+    },
+    {
+      "id": "2497411bdd32",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:02:50.451Z",
+      "newValue": {
+        "quality": "360p",
+        "objectKey": "movies/the-odyssey-a00595/360p.mp4",
+        "size": 3816950,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "df746b967bcc",
+      "adminId": "8752045573",
+      "action": "ADMIN_ATTACHED_VIDEO",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:03:29.755Z",
+      "newValue": {
+        "quality": "1080p",
+        "objectKey": "movies/the-odyssey-a00595/1080p.mp4",
+        "size": 26440752,
+        "storageType": "local"
+      }
+    },
+    {
+      "id": "705e11fadac7",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:04:00.521Z",
+      "oldValue": {
+        "id": "the-odyssey-a00595",
+        "title": "THE ODYSSEY",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Action"
+        ],
+        "rating": 8,
+        "duration": "2min",
+        "description": "🏛 THE ODYSSEY (2026)\n\nChristopher Nolan yana katta ekranlarni zabt etishga tayyor. 🎬\n\n⚔️ The Odyssey — qadimgi yunon qahramoni Odisseyning uyiga qaytish yo‘lidagi epik sarguzashtlari haqida hikoya qiluvchi film.\n\n🌊 Uzoq va xavfli sayohat\n⚔️ Afsonaviy janglar\n🏛 Qadimgi Yunoniston\n🧿 Mifologik mavjudotlar va sinovlar\n\n🎥 Rejissyor: Christopher Nolan\n⭐ Aktyorlar: Matt Damon, Tom Holland, Anne Hathaway, Zendaya, Robert Pattinson va boshqalar\n📅 Premyera: 2026\n\nNolan bu safar yunon mifologiyasining eng mashhur dostonlaridan birini IMAX formatida katta ekranlarga olib chiqmoqda.\n\n🔥 Sizningcha, Nolan “The Odyssey” bilan yana bir kino tarixini yaratadimi?\n\n#TheOdyssey #Odyssey2026 #ChristopherNolan #MattDamon #TomHolland #Zendaya #Movie #Cinema\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/the-odyssey-a00595/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/the-odyssey-a00595/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-14T01:02:50.448Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/the-odyssey-a00595/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-14T01:03:29.752Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T01:02:00.710Z",
+        "updatedAt": "2026-08-14T01:04:12.419Z"
+      },
+      "newValue": {
+        "id": "the-odyssey-a00595",
+        "title": "THE ODYSSEY",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Action"
+        ],
+        "rating": 8,
+        "duration": "2min",
+        "description": "🏛 THE ODYSSEY (2026)\n\nChristopher Nolan yana katta ekranlarni zabt etishga tayyor. 🎬\n\n⚔️ The Odyssey — qadimgi yunon qahramoni Odisseyning uyiga qaytish yo‘lidagi epik sarguzashtlari haqida hikoya qiluvchi film.\n\n🌊 Uzoq va xavfli sayohat\n⚔️ Afsonaviy janglar\n🏛 Qadimgi Yunoniston\n🧿 Mifologik mavjudotlar va sinovlar\n\n🎥 Rejissyor: Christopher Nolan\n⭐ Aktyorlar: Matt Damon, Tom Holland, Anne Hathaway, Zendaya, Robert Pattinson va boshqalar\n📅 Premyera: 2026\n\nNolan bu safar yunon mifologiyasining eng mashhur dostonlaridan birini IMAX formatida katta ekranlarga olib chiqmoqda.\n\n🔥 Sizningcha, Nolan “The Odyssey” bilan yana bir kino tarixini yaratadimi?\n\n#TheOdyssey #Odyssey2026 #ChristopherNolan #MattDamon #TomHolland #Zendaya #Movie #Cinema\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/the-odyssey-a00595/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/the-odyssey-a00595/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-14T01:02:50.448Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/the-odyssey-a00595/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-14T01:03:29.752Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T01:02:00.710Z",
+        "updatedAt": "2026-08-14T01:04:12.419Z"
+      }
+    },
+    {
+      "id": "be7c4b80a170",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPDATED_MOVIE",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:04:11.579Z",
+      "oldValue": {
+        "id": "the-odyssey-a00595",
+        "title": "THE ODYSSEY",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Action"
+        ],
+        "rating": 8,
+        "duration": "2min",
+        "description": "🏛 THE ODYSSEY (2026)\n\nChristopher Nolan yana katta ekranlarni zabt etishga tayyor. 🎬\n\n⚔️ The Odyssey — qadimgi yunon qahramoni Odisseyning uyiga qaytish yo‘lidagi epik sarguzashtlari haqida hikoya qiluvchi film.\n\n🌊 Uzoq va xavfli sayohat\n⚔️ Afsonaviy janglar\n🏛 Qadimgi Yunoniston\n🧿 Mifologik mavjudotlar va sinovlar\n\n🎥 Rejissyor: Christopher Nolan\n⭐ Aktyorlar: Matt Damon, Tom Holland, Anne Hathaway, Zendaya, Robert Pattinson va boshqalar\n📅 Premyera: 2026\n\nNolan bu safar yunon mifologiyasining eng mashhur dostonlaridan birini IMAX formatida katta ekranlarga olib chiqmoqda.\n\n🔥 Sizningcha, Nolan “The Odyssey” bilan yana bir kino tarixini yaratadimi?\n\n#TheOdyssey #Odyssey2026 #ChristopherNolan #MattDamon #TomHolland #Zendaya #Movie #Cinema\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/the-odyssey-a00595/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/the-odyssey-a00595/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-14T01:02:50.448Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/the-odyssey-a00595/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-14T01:03:29.752Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T01:02:00.710Z",
+        "updatedAt": "2026-08-14T01:04:12.419Z"
+      },
+      "newValue": {
+        "id": "the-odyssey-a00595",
+        "title": "THE ODYSSEY",
+        "originalTitle": "",
+        "year": 2026,
+        "genres": [
+          "Action"
+        ],
+        "rating": 8,
+        "duration": "2min",
+        "description": "🏛 THE ODYSSEY (2026)\n\nChristopher Nolan yana katta ekranlarni zabt etishga tayyor. 🎬\n\n⚔️ The Odyssey — qadimgi yunon qahramoni Odisseyning uyiga qaytish yo‘lidagi epik sarguzashtlari haqida hikoya qiluvchi film.\n\n🌊 Uzoq va xavfli sayohat\n⚔️ Afsonaviy janglar\n🏛 Qadimgi Yunoniston\n🧿 Mifologik mavjudotlar va sinovlar\n\n🎥 Rejissyor: Christopher Nolan\n⭐ Aktyorlar: Matt Damon, Tom Holland, Anne Hathaway, Zendaya, Robert Pattinson va boshqalar\n📅 Premyera: 2026\n\nNolan bu safar yunon mifologiyasining eng mashhur dostonlaridan birini IMAX formatida katta ekranlarga olib chiqmoqda.\n\n🔥 Sizningcha, Nolan “The Odyssey” bilan yana bir kino tarixini yaratadimi?\n\n#TheOdyssey #Odyssey2026 #ChristopherNolan #MattDamon #TomHolland #Zendaya #Movie #Cinema\n\n",
+        "poster": "g0",
+        "posterUrl": "/api/movies/the-odyssey-a00595/poster",
+        "backdropUrl": "",
+        "videoSources": {
+          "360p": {
+            "objectKey": "movies/the-odyssey-a00595/360p.mp4",
+            "size": 3816950,
+            "uploadedAt": "2026-08-14T01:02:50.448Z",
+            "storageType": "local"
+          },
+          "1080p": {
+            "objectKey": "movies/the-odyssey-a00595/1080p.mp4",
+            "size": 26440752,
+            "uploadedAt": "2026-08-14T01:03:29.752Z",
+            "storageType": "local"
+          }
+        },
+        "status": "active",
+        "featured": false,
+        "trending": false,
+        "trendingOrder": 0,
+        "trendingBannerUrl": "",
+        "isPremium": false,
+        "createdAt": "2026-08-14T01:02:00.710Z",
+        "updatedAt": "2026-08-14T01:04:12.419Z"
+      }
+    },
+    {
+      "id": "663a0497a940",
+      "adminId": "8752045573",
+      "action": "ADMIN_UPLOADED_POSTER",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:04:12.424Z",
+      "newValue": {
+        "ext": "jpg",
+        "size": 40896
+      }
+    },
+    {
+      "id": "ff86077e4270",
+      "adminId": "8752045573",
+      "action": "ADMIN_SET_BANNER",
+      "entityType": "banner",
+      "entityId": "banner",
+      "timestamp": "2026-08-14T01:04:44.059Z",
+      "newValue": {
+        "type": "movie",
+        "movieId": "doomsday-75ecbc",
+        "title": null,
+        "hasImage": false
+      }
+    },
+    {
+      "id": "804438ff46fe",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "the-odyssey-a00595",
+      "timestamp": "2026-08-14T01:22:55.099Z",
+      "oldValue": {
+        "title": "THE ODYSSEY"
+      }
+    },
+    {
+      "id": "c42476283021",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "spiderman-f556d5",
+      "timestamp": "2026-08-14T01:22:56.965Z",
+      "oldValue": {
+        "title": "Spiderman"
+      }
+    },
+    {
+      "id": "1126c18d0566",
+      "adminId": "8752045573",
+      "action": "ADMIN_DELETED_MOVIE",
+      "entityType": "movie",
+      "entityId": "doomsday-75ecbc",
+      "timestamp": "2026-08-14T01:22:58.508Z",
+      "oldValue": {
+        "title": "Doomsday"
+      }
+    }
+  ],
+  "analytics": {
+    "days": {
+      "2026-08-10": {
+        "userOpenedApp": 13,
+        "favoriteAdded": 4,
+        "favoriteRemoved": 4,
+        "historyUpdated": 4
+      },
+      "2026-08-11": {
+        "userOpenedApp": 25,
+        "historyUpdated": 12,
+        "favoriteAdded": 2,
+        "favoriteRemoved": 1,
+        "playbackStarted": 6
+      },
+      "2026-08-12": {
+        "userOpenedApp": 47,
+        "playbackStarted": 69,
+        "historyUpdated": 99,
+        "favoriteAdded": 5,
+        "favoriteRemoved": 5
+      },
+      "2026-08-13": {
+        "userOpenedApp": 10,
+        "playbackStarted": 19,
+        "historyUpdated": 21
+      },
+      "2026-08-14": {
+        "userOpenedApp": 8,
+        "playbackStarted": 2,
+        "historyUpdated": 5
+      }
+    },
+    "moviePlays": {
+      "oppenheimer": {
+        "count": 3,
+        "lastPlayedAt": "2026-08-11T18:13:34.735Z"
+      },
+      "birinchi-0f04c5": {
+        "count": 3,
+        "lastPlayedAt": "2026-08-11T18:34:45.978Z"
+      },
+      "e2e-local-test-3b8cf9": {
+        "count": 1,
+        "lastPlayedAt": "2026-08-12T01:10:44.437Z"
+      },
+      "car-77ef73": {
+        "count": 6,
+        "lastPlayedAt": "2026-08-12T01:28:12.765Z"
+      },
+      "a-1907cf": {
+        "count": 35,
+        "lastPlayedAt": "2026-08-12T07:02:31.184Z"
+      },
+      "avatar": {
+        "count": 2,
+        "lastPlayedAt": "2026-08-12T06:08:00.171Z"
+      },
+      "aaa-9b36fd": {
+        "count": 12,
+        "lastPlayedAt": "2026-08-12T07:01:31.181Z"
+      },
+      "aaaaaa-ca058c": {
+        "count": 2,
+        "lastPlayedAt": "2026-08-12T06:34:00.570Z"
+      },
+      "doomsday-0e15d7": {
+        "count": 15,
+        "lastPlayedAt": "2026-08-13T16:54:01.493Z"
+      },
+      "spiderman-bad757": {
+        "count": 2,
+        "lastPlayedAt": "2026-08-13T15:37:31.140Z"
+      },
+      "sparta-bda143": {
+        "count": 13,
+        "lastPlayedAt": "2026-08-13T16:53:31.491Z"
+      },
+      "doomsday-75ecbc": {
+        "count": 1,
+        "lastPlayedAt": "2026-08-14T01:05:38.246Z"
+      },
+      "spiderman-f556d5": {
+        "count": 1,
+        "lastPlayedAt": "2026-08-14T01:07:38.257Z"
+      }
+    }
+  },
+  "settings": {
+    "banner": {
+      "type": "movie",
+      "active": true,
+      "movieId": "doomsday-75ecbc"
+    },
+    "adminPasswordHash": "scrypt:16384:8:1:dbaad33b861554672df3470ae57b5388:b738c563a3772150989bf0ef7111370d384c6bc8c608fc6058ee7fb2ce4e5d7c7ba95c550e0e3be1b0bcf616c2c110a72dee4e6f7f75a97564ba974b993553f3"
+  },
+  "payments": {},
+  "contactMessages": [
+    {
+      "id": "msg_66f505749534ed7f",
+      "userId": "8249917172",
+      "userName": "Ibodullo Fayzulloyev",
+      "username": "Fayzulloyev_Ibodullo",
+      "text": "Assalomu aleykum",
+      "createdAt": "2026-08-14T00:42:32.320Z",
+      "status": "new"
+    }
+  ],
+  "blockedContactUsers": []
+}

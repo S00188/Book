@@ -1,0 +1,28 @@
+{"time":"2026-08-14T00:41:38.199Z","level":"info","msg":"KinoBot API http://localhost:3000 portida ishga tushdi"}
+{"time":"2026-08-14T00:41:38.203Z","level":"info","msg":"  Dev mode: true"}
+{"time":"2026-08-14T00:41:38.203Z","level":"info","msg":"  Admin ID: 8752045573"}
+{"time":"2026-08-14T00:41:38.203Z","level":"info","msg":"  Admin Key: (o'rnatilgan)"}
+{"time":"2026-08-14T00:41:38.203Z","level":"info","msg":"  Health:   GET http://localhost:3000/api/health"}
+{"time":"2026-08-14T00:41:38.204Z","level":"info","msg":"  Ready:    GET http://localhost:3000/api/ready"}
+{"time":"2026-08-14T00:47:51.126Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_CREATED_MOVIE","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"dc6d7559bd59"}
+{"time":"2026-08-14T00:47:51.776Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPLOADED_POSTER","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"8937d3c59b04"}
+{"time":"2026-08-14T00:48:27.078Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"db5d097f233d"}
+{"time":"2026-08-14T00:49:20.584Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"5b0d569cf10f"}
+{"time":"2026-08-14T00:50:00.974Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"19535f5d5ea2"}
+{"time":"2026-08-14T00:58:28.060Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_CREATED_MOVIE","entityType":"movie","entityId":"spiderman-f556d5","entryId":"6d18e9adab76"}
+{"time":"2026-08-14T00:58:29.513Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPLOADED_POSTER","entityType":"movie","entityId":"spiderman-f556d5","entryId":"2089afc50024"}
+{"time":"2026-08-14T00:59:41.284Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"spiderman-f556d5","entryId":"5d3eb597c5d5"}
+{"time":"2026-08-14T01:00:51.188Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPDATED_MOVIE","entityType":"movie","entityId":"spiderman-f556d5","entryId":"b4519d8b0488"}
+{"time":"2026-08-14T01:01:14.191Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPDATED_MOVIE","entityType":"movie","entityId":"spiderman-f556d5","entryId":"7ef2fbf95cb4"}
+{"time":"2026-08-14T01:01:15.616Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPLOADED_POSTER","entityType":"movie","entityId":"spiderman-f556d5","entryId":"4748ddb9b6b1"}
+{"time":"2026-08-14T01:02:00.716Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_CREATED_MOVIE","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"bb0823911a3a"}
+{"time":"2026-08-14T01:02:01.617Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPLOADED_POSTER","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"a1735fa912e5"}
+{"time":"2026-08-14T01:02:50.454Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"2497411bdd32"}
+{"time":"2026-08-14T01:03:29.771Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_ATTACHED_VIDEO","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"df746b967bcc"}
+{"time":"2026-08-14T01:04:00.524Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPDATED_MOVIE","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"705e11fadac7"}
+{"time":"2026-08-14T01:04:11.583Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPDATED_MOVIE","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"be7c4b80a170"}
+{"time":"2026-08-14T01:04:12.441Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_UPLOADED_POSTER","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"663a0497a940"}
+{"time":"2026-08-14T01:04:44.069Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_SET_BANNER","entityType":"banner","entityId":"banner","entryId":"ff86077e4270"}
+{"time":"2026-08-14T01:22:55.105Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_DELETED_MOVIE","entityType":"movie","entityId":"the-odyssey-a00595","entryId":"804438ff46fe"}
+{"time":"2026-08-14T01:22:56.969Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_DELETED_MOVIE","entityType":"movie","entityId":"spiderman-f556d5","entryId":"c42476283021"}
+{"time":"2026-08-14T01:22:58.513Z","level":"info","msg":"Admin audit log","adminId":"8752045573","action":"ADMIN_DELETED_MOVIE","entityType":"movie","entityId":"doomsday-75ecbc","entryId":"1126c18d0566"}

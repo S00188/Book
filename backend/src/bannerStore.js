@@ -1,0 +1,84 @@
+// src/bannerStore.js
+// Bosh sahifa banneri rasmini lokal diskda saqlaydi: data/banner/image.{ext}
+//
+// Banner kichik fayl bo'lgani uchun poster kabi lokal qoladi va
+// `/api/banner/image` route'ida xizmat ko'rsatiladi.
+
+const fs = require("fs");
+const path = require("path");
+
+const { detectImageExt } = require("./posterStore");
+
+const BANNER_ROOT = path.join(__dirname, "..", "data", "banner");
+const ALLOWED_EXT = ["jpg", "jpeg", "png", "webp", "gif"];
+
+const MIME = {
+  jpg: "image/jpeg",
+  jpeg: "image/jpeg",
+  png: "image/png",
+  webp: "image/webp",
+  gif: "image/gif",
+};
+
+function ensureDir() {
+  try {
+    fs.mkdirSync(BANNER_ROOT, { recursive: true });
+  } catch (e) {
+    // e'tiborsiz — yozishda yana tekshiriladi
+  }
+}
+
+// Mavjud banner rasmini topadi → { ext, absPath } | null
+function find() {
+  ensureDir();
+  for (const ext of ALLOWED_EXT) {
+    const abs = path.join(BANNER_ROOT, `image.${ext}`);
+    try {
+      if (fs.existsSync(abs)) return { ext, absPath: abs };
+    } catch (e) {
+      // e'tiborsiz
+    }
+  }
+  return null;
+}
+
+// Rasm yozadi (avval eski turdagi faylni o'chiradi). return { ext, absPath }
+function save(buffer, ext) {
+  ensureDir();
+  for (const oldExt of ALLOWED_EXT) {
+    if (oldExt === ext) continue;
+    const p = path.join(BANNER_ROOT, `image.${oldExt}`);
+    try {
+      if (fs.existsSync(p)) fs.unlinkSync(p);
+    } catch (e) {
+      // e'tiborsiz
+    }
+  }
+  const abs = path.join(BANNER_ROOT, `image.${ext}`);
+  fs.writeFileSync(abs, buffer);
+  return { ext, absPath: abs };
+}
+
+// Banner rasmini o'chiradi.
+function remove() {
+  const f = find();
+  if (!f) return;
+  try {
+    fs.unlinkSync(f.absPath);
+  } catch (e) {
+    // e'tiborsiz
+  }
+}
+
+function mimeFor(ext) {
+  return MIME[ext] || "application/octet-stream";
+}
+
+module.exports = {
+  find,
+  save,
+  remove,
+  mimeFor,
+  detectImageExt,
+  BANNER_ROOT,
+};
