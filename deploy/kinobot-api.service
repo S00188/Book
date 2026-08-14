@@ -24,7 +24,7 @@ Wants=network-online.target
     env: node
     plan: starter
 
-# O'zingizning yo'llaringizga almashtiring:
+# O'zingizning yo'llaringizga almashtiring
 ExecStart=/usr/bin/node /opt/kinobot/backend/server.js
 WorkingDirectory=/opt/kinobot/backend
 
