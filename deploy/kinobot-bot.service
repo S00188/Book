@@ -19,7 +19,10 @@ After=network-online.target kinobot-api.service
 Wants=network-online.target
 
 [Service]
-Type=simple
+- type: worker
+    name: kinobot-bot
+    env: node
+    plan: starter          # <-- shu yerni ham "free" ga almashtiring
 
 # O'zingizning yo'llaringizga almashtiring:
 ExecStart=/usr/bin/node /opt/kinobot/backend/bot.js
